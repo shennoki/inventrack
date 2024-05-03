@@ -1,0 +1,6 @@
+/* User and Workspace Settings | https://code.visualstudio.com/docs/getstarted/settings */
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "css.lint.unknownAtRules": "ignore",
+}
