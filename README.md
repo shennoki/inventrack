@@ -6,7 +6,7 @@
 
 ## Tech Stacks
 
-- [Next.js](https://nextjs.org/)
+- [Next.js 14](https://nextjs.org/)
 - [Prisma](https://www.prisma.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [AWS App Runner](https://aws.amazon.com/jp/apprunner/)
